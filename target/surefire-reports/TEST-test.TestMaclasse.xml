@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.TestMaclasse" time="0.027" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.TestMaclasse" time="0.028" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\sergi\AppData\Local\Temp\surefire9639347921922048861\surefirebooter14128126832557671730.jar C:\Users\sergi\AppData\Local\Temp\surefire9639347921922048861 2020-11-16T12-38-03_689-jvmRun1 surefire3160618357294313536tmp surefire_014632655116995458643tmp"/>
+    <property name="sun.java.command" value="C:\Users\sergi\AppData\Local\Temp\surefire13167232354365868036\surefirebooter6915134222149777357.jar C:\Users\sergi\AppData\Local\Temp\surefire13167232354365868036 2020-11-16T12-56-03_576-jvmRun1 surefire4229393360334315242tmp surefire_0660551419235359284tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\sergi\eclipse-workspace\TP_TEST_1\target\test-classes;C:\Users\sergi\eclipse-workspace\TP_TEST_1\target\classes;C:\Users\sergi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;C:\Users\sergi\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\sergi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\sergi\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\sergi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\sergi\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\sergi\.m2\repository\org\junit\vintage\junit-vintage-engine\5.6.2\junit-vintage-engine-5.6.2.jar;C:\Users\sergi\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\sergi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\sergi\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\sergi\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\sergi\.m2\repository\com\google\truth\truth\1.0.1\truth-1.0.1.jar;C:\Users\sergi\.m2\repository\com\google\guava\guava\28.1-android\guava-28.1-android.jar;C:\Users\sergi\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\sergi\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\sergi\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\sergi\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\sergi\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\sergi\.m2\repository\org\checkerframework\checker-compat-qual\2.5.5\checker-compat-qual-2.5.5.jar;C:\Users\sergi\.m2\repository\com\googlecode\java-diff-utils\diffutils\1.3.0\diffutils-1.3.0.jar;C:\Users\sergi\.m2\repository\com\google\auto\value\auto-value-annotations\1.6.3\auto-value-annotations-1.6.3.jar;C:\Users\sergi\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.3\error_prone_annotations-2.3.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\sergi\AppData\Local\Temp\surefire9639347921922048861\surefirebooter14128126832557671730.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sergi\AppData\Local\Temp\surefire13167232354365868036\surefirebooter6915134222149777357.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.2+12-46"/>
@@ -55,8 +55,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="biggestWithNegativeCase" classname="test.TestMaclasse" time="0.008"/>
+  <testcase name="biggestWithNegativeCase" classname="test.TestMaclasse" time="0.009"/>
   <testcase name="biggestWithNullCase" classname="test.TestMaclasse" time="0.001"/>
-  <testcase name="biggestWithEmptyCase" classname="test.TestMaclasse" time="0"/>
-  <testcase name="biggestWithNominalCase" classname="test.TestMaclasse" time="0.001"/>
+  <testcase name="biggestWithEmptyCase" classname="test.TestMaclasse" time="0.001"/>
+  <testcase name="biggestWithNominalCase" classname="test.TestMaclasse" time="0"/>
 </testsuite>
